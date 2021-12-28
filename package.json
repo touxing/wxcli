@@ -1,6 +1,6 @@
 {
   "name": "@hotsuitor/wxcli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A cli for develop Wechat miniProgram convenient.",
   "main": "src/index.js",
   "type": "module",
