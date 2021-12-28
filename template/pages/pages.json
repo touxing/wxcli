@@ -1,0 +1,6 @@
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "Page Name",
+  "navigationStyle": "default",
+  "usingComponents": {}
+}
