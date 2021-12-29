@@ -11,7 +11,7 @@ yarn add -D wxcli
 
 > 参考：https://developers.weixin.qq.com/miniprogram/dev/devtools/cli.html
 
-![20211228203727](https://gitee.com/hotsuitor/picgo/raw/master/img/2021/12/28/20211228203811.png)
+![20211229092010](https://piclive.oss-cn-shenzhen.aliyuncs.com/blog/pictures/20211229092010.png)
 
 把此路径配置到 `系统环境变量` `path` 中
 
@@ -21,5 +21,4 @@ yarn add -D wxcli
 wxcli
 ```
 
-
-![image-20211228204056320](https://gitee.com/hotsuitor/picgo/raw/master/img/2021/12/28/20211228204056.png)
+![20211229092030](https://piclive.oss-cn-shenzhen.aliyuncs.com/blog/pictures/20211229092030.png)
