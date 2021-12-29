@@ -21,4 +21,5 @@ yarn add -D wxcli
 wxcli
 ```
 
+
 ![image-20211228204056320](https://gitee.com/hotsuitor/picgo/raw/master/img/2021/12/28/20211228204056.png)
