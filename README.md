@@ -4,7 +4,7 @@
 ## Install
 
 ```sh
-yarn add -D wxcli
+npm i -g wxcli
 ```
 
 把微信开发者工具的安装目录配置到 `系统环境变量` `path` 中
