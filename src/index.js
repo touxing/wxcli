@@ -8,6 +8,7 @@ import inquirer from 'inquirer'
 import shelljs from 'shelljs'
 import yargs from 'yargs'
 import { hideBin } from 'yargs/helpers'
+import './date.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
@@ -88,7 +89,7 @@ const askQuestions2 = () => {
       type: 'input',
       name: 'Desc',
       message: '请输入项目备注',
-      default: 'timestamp:' + Date.now(),
+      default: (new Date()).format('yyyy-MM-dd hh:mm:ss'),
     },
   ]
   return inquirer.prompt(questions)
